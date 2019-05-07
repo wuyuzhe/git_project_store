@@ -7,3 +7,5 @@
 # [图像识别](https://github.com/wuyuzhe/git_project_store/blob/master/image.md)
 
 # [工具](https://github.com/wuyuzhe/git_project_store/blob/master/tools.md)
+
+# [教程](https://github.com/wuyuzhe/git_project_store/blob/master/tutorials.md)

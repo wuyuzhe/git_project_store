@@ -20,6 +20,9 @@ Image restoration with neural networks but without learning.
 ## [luanfujun / deep-painterly-harmonization](https://github.com/luanfujun/deep-painterly-harmonization)
 Code and data for paper "Deep Painterly Harmonization": https://arxiv.org/abs/1804.03189
 
+# [deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
+Deep Residual Learning for Image Recognition
+
 # 数据集
 ## [yhlleo / tensorflow.cifar10](https://github.com/yhlleo/tensorflow.cifar10)
 The examples of image recognition with the dataset CIFAR10 via tensorflow.

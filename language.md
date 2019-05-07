@@ -25,9 +25,15 @@ LSTM and QRNN Language Model Toolkit for PyTorch
 ## [sequence-labeling-BiLSTM-CRF](https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF)
 BiLSTM-CRF joint model for tasks like sequence labeling using char/word level embeddings in Tensorflow
 
-#文本转向量
+# 文本转向量
 ## [sent2vec](https://github.com/epfml/sent2vec)
 General purpose unsupervised sentence representations
+
+## [lajanugen / S2V](https://github.com/lajanugen/S2V)
+ICLR 2018 Quick-Thought vectors
+
+## [PrincetonML / SIF](https://github.com/PrincetonML/SIF)
+sentence embedding by Smooth Inverse Frequency weighting scheme
 
 
 # 命名实体识别
