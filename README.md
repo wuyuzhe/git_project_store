@@ -1,27 +1,9 @@
-# [laravel_admin](https://github.com/z-song/laravel-admin)
-Build a full-featured administrative interface in ten minutes
-后台快速生成模板
+# [深度学习](https://github.com/wuyuzhe/git_project_store/blob/master/deeplearn.md)
 
-# [passenger](https://github.com/phusion/passenger)
-A fast and robust web server and application server for Ruby, Python and Node.js
+# [自然语言识别](https://github.com/wuyuzhe/git_project_store/blob/master/language.md)
 
-# [laravel-swoole](https://github.com/swooletw/laravel-swoole)
-High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
+# [Lravel](https://github.com/wuyuzhe/git_project_store/blob/master/laravel.md)
 
-高性能http服务器，基于swoole，加速laravel或者lumen应用
+# [图像识别](https://github.com/wuyuzhe/git_project_store/blob/master/image.md)
 
-# [october](https://github.com/octobercms/october)
-self-hosted CMS platform based on the Laravel PHP Framework.
-
-CMS内容管理平台，laravel框架
-
-
-# [dingo/api](https://github.com/dingo/api)
-A RESTful API package for the Laravel and Lumen frameworks.
-
-RESTful接口包，应用于Laravel和Lumen框架
-
-# [voyager](https://github.com/the-control-group/voyager)
-Voyager - The Missing Laravel Admin
-
-迷失的Laravel后台
+# [工具](https://github.com/wuyuzhe/git_project_store/blob/master/tools.md)
