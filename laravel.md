@@ -2,10 +2,6 @@
 Build a full-featured administrative interface in ten minutes
 后台快速生成模板
 
-# [passenger](https://github.com/phusion/passenger)
-A fast and robust web server and application server for Ruby, Python and Node.js
-一个快速健壮的web服务器，可用于ruby、python、nodejs
-
 # [laravel-swoole](https://github.com/swooletw/laravel-swoole)
 High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.
 
