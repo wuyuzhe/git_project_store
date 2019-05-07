@@ -9,3 +9,17 @@ php开发的发布平台
 
 ## [countries](https://github.com/mledoze/countries)
 国家数据，以json、csv、xml、yaml的方式存储
+
+## [hhvm](https://github.com/facebook/hhvm)
+facebook开发的php虚拟机
+
+# web开发
+
+## [php-beast](https://github.com/imaben/php-beast-binaries)
+php代码加密
+
+## [impress.js](https://github.com/impress/impress.js)
+基于css3的变形和转换package
+
+## [store.js](https://github.com/marcuswestin/store.js)
+跨浏览器存储
